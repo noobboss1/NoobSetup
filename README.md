@@ -7,5 +7,5 @@
 <h2>In the tool</h2>
 
 <h3>{01}-> Termux Setup<br>{02}-> NGROK Setup<br>{03}-> MetaSploit Install<br>{04}-> A Framework Tool<br>{05}-> Termux Banner<br>{06}-> Extra Key<br>{07}-> Update Tool<br>{08}-> Join Group<br>{00}-> Exit Tool</h3>
-<img src="ss.jpg" alt="ss" width=220 height=220>
+<img src="ss.jpg" alt="ss" width=420 height=420>
 
